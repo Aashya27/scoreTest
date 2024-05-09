@@ -3,7 +3,7 @@ package test.mobile.score_qa_automation_challenge.base;
 
 /**
  * @author aashya.bodugula
- * @since 9 May 2024 Description : This file is to keep the constants in the form of enums
+ * @since 6 May 2024 Description : This file is to keep the constants in the form of enums
  */
 
 
