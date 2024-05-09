@@ -21,7 +21,7 @@ import static io.appium.java_client.service.local.flags.GeneralServerFlag.BASEPA
 /**
  * @author aashya bodugula
  * @description This Class is created to handle Appium service. ie auto start, auto stop appium service
- * @since 9 May 2024
+ * @since 5 May 2024
  */
 
 public class AppiumService {
