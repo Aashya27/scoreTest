@@ -10,10 +10,10 @@ This is an automation solution that finds a league, team, or player within theSc
 This framework is to provide automation solution to the given problem where the business flows of theScore is to be automated. To provide the cross-platform solution, appium tool is identified. Appium has capability to interact with devices having different plaforms and using same client side source code. To provide behavioral approach cucumber is used. It provided better re-usability and simplicity. Page object model is identified according to the requirement where inheritance based hierarchy built for page objects. On demand page object loading for the generic usage in business flows.  
 
 ### Technical dependencies
-    * Maven 3.9.3
+    * Maven 3.9.6
     * JDK 11
-    * Node 20.3.1
-    * Appium 2.2.3
+    * Node 20.12.2
+    * Appium 2.5.4
     * UIAutomator2
     * Allure 2.23.0
     * android-platform-tools
