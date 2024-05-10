@@ -17,7 +17,7 @@ import test.mobile.score_qa_automation_challenge.utilities.PropertiesUtils;
 
 /**
  * @author aashya.bodugula
- * @since 9 May 2024
+ * @since 7 May 2024
  * @description This file is responsible to create and
  *        maintain the AppiumDriver
  */

@@ -4,7 +4,7 @@ import org.openqa.selenium.Capabilities;
 
 /**
  * @author aashya.bodugula
- * @since 9 May 2024 Description : This Class is created to store the device data structure
+ * @since 7 May 2024 Description : This Class is created to store the device data structure
  */
 
 

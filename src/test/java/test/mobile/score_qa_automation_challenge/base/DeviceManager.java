@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 /**
  * @author aashya.bodugula
  * @description : This Class is built to manage the devices
- * @since 9 May 2024
+ * @since 7 May 2024
  */
 
 public class DeviceManager {
