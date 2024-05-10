@@ -40,6 +40,6 @@ This framework is to provide automation solution to the given problem where the 
 
 ### Test Report
 
-![test report](target/cucumber-reports.html)
+![test report](src/test/resources/report.png)
 
 
